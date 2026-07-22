@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "FastAPI REST APIs",
+      "description": "Build RESTful APIs with FastAPI, Pydantic validation, and standard HTTP methods.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-07-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
