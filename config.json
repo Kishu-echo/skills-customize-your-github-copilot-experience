@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "flask-sqlite-web-app",
+      "title": "Flask SQLite Web App",
+      "description": "Build a Flask web app with SQLite persistence and HTML forms.",
+      "path": "assignments/flask-sqlite-web-app",
+      "dueDate": "2026-07-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
